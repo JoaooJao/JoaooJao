@@ -5,7 +5,7 @@
   <img src="https://cdn-icons-png.flaticon.com/128/9305/9305711.png" width="25" height="25" alt="Cybersecurity Monitoring Icon"/></a>-Entusiasta em CyberSegurança.
 - <img src="https://cdn-icons-png.flaticon.com/128/5921/5921800.png" width="20" height="20"/></a> Hobby em Programação e Montagem de Arduino
 #
-## Conhecimentos
+## Conhecimento
 - <a href="https://www.flaticon.com/free-icons/python" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="20" height="20" alt="Python Icon"/></a> Python
 - <a href="https://www.flaticon.com/free-icons/java" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" width="20" height="20" alt="Java Icon"/></a>-Java
 - <a href="https://www.flaticon.com/free-icons/c-sharp" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="20" height="20" alt="C# Icon"/></a>-C#
