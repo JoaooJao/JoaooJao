@@ -1,6 +1,6 @@
 
 ## Olá Mundo! Sou o João!🖖
-- 🌱 Estudando programação.
+- Desenvolvedor Back-end.
 - <a href="https://www.flaticon.com/free-icons/cybersecurity-monitoring" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/128/9305/9305711.png" width="25" height="25" alt="Cybersecurity Monitoring Icon"/></a>-Entusiasta em CyberSegurança.
 - <img src="https://cdn-icons-png.flaticon.com/128/5921/5921800.png" width="20" height="20"/></a> Hobby em montagem de Arduino, e em Modelagem 3d utilizando a plataforma Blender.
