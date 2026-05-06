@@ -1,56 +1,75 @@
-<h1 align="center">👋 Olá, mundo! Eu sou o João 🖖</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=28&center=true&vCenter=true&width=600&lines=>>>+Olá+Mundo!;>>>+Eu+sou+o+João;>>>+Back-end+Developer;>>>+Cybersecurity+Enthusiast" />
+</h1>
 
 <p align="center">
-  💻 Desenvolvedor Back-end <br>
-  🔐 Entusiasta em CyberSegurança <br>
-  🤖 Hobby com Arduino & 🎨 Modelagem 3D (Blender)
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND-0f172a?style=for-the-badge&logo=ghost"/>
+  <img src="https://img.shields.io/badge/SECURITY-LEARNING-ff0080?style=for-the-badge&logo=hackthebox"/>
 </p>
 
 ---
 
-## 🚀 Sobre mim
-- 💻 Focado em desenvolvimento Back-end  
-- 🔐 Sempre aprendendo mais sobre CyberSegurança  
-- 🤖 Curto criar projetos com Arduino  
-- 🎨 Exploro modelagem 3D com Blender  
+## 🧬 >> Sobre mim
+
+```bash
+> user: joao.exe
+> role: backend_developer
+> interests: cybersecurity | arduino | 3D modeling
+> status: learning_every_day()
+```
 
 ---
 
-## 🧠 Tecnologias & Conhecimentos
+## ⚙️ >> Tech Stack
 
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="30" alt="Python"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" width="30" alt="Java"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="30" alt="C#"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="30" alt="SQL"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,mysql" />
 </p>
 
-- 🐍 Python  
-- ☕ Java  
-- 💜 C#  
-- 🗄️ SQL  
+---
+
+## 🧪 >> Projetos & Interesses
+
+* 🔐 CyberSecurity (Blue/Red Team basics)
+* 🤖 Automação com Arduino
+* 🎨 Modelagem 3D com Blender
+* ⚙️ APIs & Sistemas Back-end
 
 ---
 
-## 🌐 Conecte-se comigo
+## 📡 >> Conexão
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/joão-carlos-847a0b1a8/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## ⚡ Extras
+## 📊 >> GitHub Stats
 
-<p>
-  <img src="https://cdn-icons-png.flaticon.com/128/9305/9305711.png" width="20"/> Interesse em Cybersecurity <br>
-  <img src="https://cdn-icons-png.flaticon.com/128/5921/5921800.png" width="20"/> Projetos com Arduino & Blender
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=chartreuse-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=chartreuse-dark"/>
 </p>
 
 ---
 
+## 🧠 >> Filosofia
+
+```bash
+while(alive){
+   learn();
+   build();
+   break_things();
+   fix_them();
+}
+```
+
+---
+
 <p align="center">
-  ⭐ Obrigado por visitar meu perfil!
+  <img src="https://img.shields.io/badge/SYSTEM-HACKED-00FF9C?style=for-the-badge"/>
 </p>
