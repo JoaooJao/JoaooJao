@@ -1,12 +1,4 @@
-🚀 Featured Projects
-🔐 Authentication API (JWT)
-Secure authentication system with access & refresh tokens
-Focus on security best practices
-Stack: Java + Spring Security
-🕵️ Vulnerability Scanner
-Port scanning and basic vulnerability detection
-CLI tool focused on security learning
-Stack: Python<h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=28&center=true&vCenter=true&width=600&lines=>>>+Hello+World!;>>>+I'm+João;>>>+Back-end+Developer;>>>+Cybersecurity+Enthusiast" />
 </h1>
 
