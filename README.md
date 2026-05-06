@@ -11,7 +11,7 @@
 ---
 
 ## 🤖 Sobre mim
-> 🎓 Graduate in Comuter Science    
+> 🎓 Graduate in Computer Science    
 > 💻 Backend Developer  
 > 🔐 Cybersecurity Enthusiast   
 > 🤖 Arduino Maker    
