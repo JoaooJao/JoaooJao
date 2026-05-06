@@ -1,4 +1,12 @@
-<h1 align="center">
+🚀 Featured Projects
+🔐 Authentication API (JWT)
+Secure authentication system with access & refresh tokens
+Focus on security best practices
+Stack: Java + Spring Security
+🕵️ Vulnerability Scanner
+Port scanning and basic vulnerability detection
+CLI tool focused on security learning
+Stack: Python<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=28&center=true&vCenter=true&width=600&lines=>>>+Hello+World!;>>>+I'm+João;>>>+Back-end+Developer;>>>+Cybersecurity+Enthusiast" />
 </h1>
 
@@ -35,15 +43,6 @@
   <a href ="mailto:joao.ccarvalho.oliveira@gmail.com">
   <img src="https://img.shields.io/badge/Email-CONTACT-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-</p>
-
----
-
-## 📊 >> GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaooJao&show_icons=true&theme=chartreuse-dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaooJao&layout=compact&theme=chartreuse-dark"/>
 </p>
 
 ---
