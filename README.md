@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+<img src="https://media1.tenor.com/m/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="700">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FOCUS-BACKEND-0f172a?style=for-the-badge&logo=ghost"/>
   <img src="https://img.shields.io/badge/SECURITY-LEARNING-ff0080?style=for-the-badge&logo=hackthebox"/>
