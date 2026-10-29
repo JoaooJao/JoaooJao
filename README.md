@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="https://media1.tenor.com/m/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="700">
+<img src="https://media1.tenor.com/m/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="900">
 </p>
 
 <p align="center">
